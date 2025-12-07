@@ -1,0 +1,10 @@
+{
+    "base_phobert_random": {
+      "accuracy": 0.3,
+      "f1_macro": 0.154
+    },
+    "finetuned_phobert": {
+      "accuracy": 0.75,
+      "f1_macro": 0.747
+    }
+}
