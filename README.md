@@ -45,7 +45,7 @@ Vietnamese-Sentiment-Analysis/
 ### 1. Clone dự án
 
 ```
-git clone https://github.com/PhongKP/Vietnamese-Sentiment-Analysis.git
+git clone https://github.com/quangbui5504/Vietnamese-Sentiment-Analysis.git
 cd Vietnamese-Sentiment-Analysis
 ```
 
